@@ -1,7 +1,7 @@
 <h3 align="left">Hi 🙌🏽, I'm Nemanja Jankovic</h3>
 
 - 🏫 Master student in **Computer Science at Faculty of Electrical Engineering, University of Belgrade**
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently working on **Event reminder web app**
 
 ---
 
